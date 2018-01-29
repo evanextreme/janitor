@@ -5,7 +5,7 @@ IFS=$'\n'       # make newlines the only separator
 cd ~/Desktop
 export FILES="$(ls)"
 
-FOLDER='~/Doccuments/screenshots'
+FOLDER='/Users/evan/Documents/screenshots'
 FOUND=0
 
 for f in $FILES
